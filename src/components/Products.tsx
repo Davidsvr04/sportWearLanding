@@ -49,7 +49,7 @@ const Products: React.FC = () => {
       price: 129.99,
       originalPrice: 159.99,
       rating: 4.7,
-      image: "https://www.ostu.com/dw/image/v2/BHFM_PRD/on/demandware.static/-/Sites-storefront_catalog_ostu/default/dw5c52b639/images/hi-res/Todo/chaquetas-deportivas-para-hombre-60080141-10_1.jpg?sw=800&sh=960",
+      image: "https://m.media-amazon.com/images/I/51jy0noS8TL.jpg",
       category: "Chaquetas",
       isSale: true,
     },
