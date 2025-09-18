@@ -4,7 +4,7 @@ import { FiPlay, FiArrowRight } from 'react-icons/fi';
 
 const Hero: React.FC = () => {
   return (
-    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden">
+    <section id="home" className="relative min-h-screen flex items-center justify-center overflow-hidden scroll-mt-20">
       {/* Background with gradient overlay */}
       <div className="absolute inset-0 bg-gradient-to-br from-primary-900 via-purple-900 to-pink-900">
         <div className="absolute inset-0 bg-black/20"></div>
