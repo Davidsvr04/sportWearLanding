@@ -26,7 +26,7 @@ const Testimonials: React.FC = () => {
       id: 1,
       name: "María González",
       role: "Atleta Profesional",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b5c8?w=150&h=150&fit=crop&crop=face",
+      image: "https://vivolabs.es/wp-content/uploads/2022/03/perfil-mujer-vivo-350x350.png",
       rating: 5,
       text: "SportWear ha revolucionado mi entrenamiento. La comodidad y durabilidad de sus productos son incomparables. ¡No entreno con otra marca!",
       sport: "Running"

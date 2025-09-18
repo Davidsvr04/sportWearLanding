@@ -151,7 +151,7 @@ const About: React.FC = () => {
         >
           <div className="text-center mb-12">
             <h3 className="text-3xl md:text-4xl font-black text-white mb-4">
-              Números que Hablan por Nosotros
+              Números que hablan por nosotros
             </h3>
             <p className="text-white/80 text-lg max-w-2xl mx-auto">
               La confianza de nuestros clientes es nuestro mayor logro
